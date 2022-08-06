@@ -19,3 +19,5 @@ To run this project, install it locally using npm:
 ```
 $ npm install --save express nodemon socket.io
 ```
+Screenshots:
+![image](https://user-images.githubusercontent.com/66257555/183249309-8339ee6f-a089-4b57-9ad0-4de0d99b86fd.png)
