@@ -1,5 +1,6 @@
 # Web-Chat-Application
-
+https://my-d-chat-app.herokuapp.com/ 
+* deployed on Heroku
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
