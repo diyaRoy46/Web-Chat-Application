@@ -16,4 +16,6 @@ Project is created with:
 ## Setup
 Node.js should be installed on your local machine.
 To run this project, install it locally using npm:
+```
 $ npm install --save express nodemon socket.io
+```
