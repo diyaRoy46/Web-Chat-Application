@@ -27,4 +27,4 @@ Screenshots:
 * Whenever a new user joins it shows the name of the new user to the old users
 
 ![image](https://user-images.githubusercontent.com/66257555/183249395-b00e4459-cd39-4d25-a3b4-98da7789b454.png)
-*Real time chatting
+* Real time chatting
